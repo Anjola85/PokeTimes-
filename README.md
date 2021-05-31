@@ -12,3 +12,6 @@ Introductory react application that basically permits the user to interact with 
  Reducer basically help us interact with the store in a big/proper application. 
  Many reducers are created for different types of data that will be collected
 Hence i  must then create a final reducer called the rootReducer to merge all other reducers.
+
+
+**CODE IS IN MASTER BRANCH**
